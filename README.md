@@ -2,7 +2,7 @@
 
 **`Data Scientist`**
 
-Hi, my name is Gabriel, I am 23 years old, and I am a native of Brazil. I am fully dedicated to my career as a Data Scientist with years of experience in Data Science, Data Analysis, Data Engineering, and Business Intelligence, applying advanced data analysis and ETL techniques to solve complex problems, using a data-driven approach to be a change agent within the company. Expert in Python, SQL, and Power BI, with extensive experience in automating pipelines and continuous integration using Jenkins. A well-rounded Data Scientist and a strong enthusiast of automation and process improvements.
+Hi, my name is Gabriel, I am 24 years old, and I am a native of Brazil. I am fully dedicated to my career as a Data Scientist with years of experience in Data Science, Data Analysis, Data Engineering, and Business Intelligence, applying advanced data analysis and ETL techniques to solve complex problems, using a data-driven approach to be a change agent within the company. Expert in Python, SQL, and Power BI, with extensive experience in automating pipelines and continuous integration using Jenkins. A well-rounded Data Scientist and a strong enthusiast of automation and process improvements.
 
 ---
 
