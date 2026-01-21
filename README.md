@@ -105,6 +105,8 @@ Hi, my name is Gabriel, I am 24 years old, and I am a native of Brazil. I am ful
     src="https://github-readme-stats.vercel.app/api?username=2001GMedina&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
 
+  <iframe title="Dashboard Cobrança" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYjE2MmQ0ZmMtYjdjNy00NzgzLWE2NjctOWRmNWIyNzhlYzVhIiwidCI6ImI5NDQ4YzE4LTJiODEtNDk3MS04YmU5LWQ1N2FmZTlhZTEyZCJ9" frameborder="0" allowFullScreen="true"></iframe>
+
 <img 
       align="left" 
       alt="GitHub Stats" 
