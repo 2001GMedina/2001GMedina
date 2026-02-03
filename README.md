@@ -13,8 +13,8 @@ Experienced in CI/CD pipelines with Jenkins and in delivering dashboards and KPI
 </p>
 
 <p>
-🔗 <a href="https://www.linkedin.com/in/gabrielmedinamota" target="_blank">LinkedIn</a> |
-🌐 <a href="https://gabrielmedina.dev" target="_blank">Portfolio</a>
+🔗 <a href="https://www.linkedin.com/in/gabriel-medina-mota-163481174/" target="_blank">LinkedIn</a> |
+🌐 <a href="https://sites.google.com/view/gabrielmedinamota/" target="_blank">Portfolio</a>
 </p>
 
 <hr/>
@@ -43,12 +43,3 @@ Experienced in CI/CD pipelines with Jenkins and in delivering dashboards and KPI
 <br/><br/>
 
 <hr/>
-
-<h2>📊 GitHub Stats</h2>
-
-<p>
-  <img height="170"
-    src="https://github-readme-stats.vercel.app/api?username=2001GMedina&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=2001GMedina&theme=tokyonight&layout=compact&langs_count=8"/>
-</p>
