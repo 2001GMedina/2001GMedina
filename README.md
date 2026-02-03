@@ -1,117 +1,54 @@
-# 👩🏻‍💻 Gabriel Medina
+<h1>👨🏻‍💻 Gabriel Medina</h1>
 
-**`Data Scientist`**
-
-Hi, my name is Gabriel, I am 24 years old, and I am a native of Brazil. I am fully dedicated to my career as a Data Scientist with years of experience in Data Science, Data Analysis, Data Engineering, and Business Intelligence, applying advanced data analysis and ETL techniques to solve complex problems, using a data-driven approach to be a change agent within the company. Expert in Python, SQL, and Power BI, with extensive experience in automating pipelines and continuous integration using Jenkins. A well-rounded Data Scientist and a strong enthusiast of automation and process improvements.
-
----
-
-### 🤖 Technologies
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Oracle" 
-    title="Oracle"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Google Sheets" 
-    title="Google Sheets"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Google_Sheets_2020_Logo.svg"
-/>
-<img 
-    align="left" 
-    alt="Excel" 
-    title="Excel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg"
-/>
-<img 
-    align="left" 
-    alt="Power BI" 
-    title="Power BI"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png"
-/>
-<img 
-    align="left" 
-    alt="Jenkins" 
-    title="Jenkins"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg"
-/>
-<img 
-    align="left" 
-    alt="Pentaho" 
-    title="Pentaho"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://agail.com.br/wp-content/uploads/2020/12/pdi.png"
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<br/>
-<br/>
-
----
-
-### 📊 Stats
+<h3>Data Engineer | Pipeline Automation, API Integration & BI</h3>
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=2001GMedina&show_icons=true&theme=tokyonight&include_all_commits=true" 
-  />
+Data Engineer with 4+ years of experience building automated data pipelines, integrating APIs and delivering business-oriented data solutions.
+Strong background in Python and SQL for ETL development, system integration and data processing at scale.
+Experienced in CI/CD pipelines with Jenkins and in delivering dashboards and KPIs using Power BI to support data-driven decision-making.
+</p>
 
-  <iframe title="Dashboard Cobrança" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYjE2MmQ0ZmMtYjdjNy00NzgzLWE2NjctOWRmNWIyNzhlYzVhIiwidCI6ImI5NDQ4YzE4LTJiODEtNDk3MS04YmU5LWQ1N2FmZTlhZTEyZCJ9" frameborder="0" allowFullScreen="true"></iframe>
+<p>
+📍 Brazil &nbsp;•&nbsp; 🌍 Open to Remote & Contract Work
+</p>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=2001GMedina&theme=tokyonight&layout=compact&custom_title=Repositories&langs_count=9" 
-  />
+<p>
+🔗 <a href="https://www.linkedin.com/in/gabrielmedinamota" target="_blank">LinkedIn</a> |
+🌐 <a href="https://gabrielmedina.dev" target="_blank">Portfolio</a>
+</p>
 
+<hr/>
+
+<h2>⚙️ Tech Stack</h2>
+
+<p>
+  <img align="left" alt="Python" title="Python" width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img align="left" alt="SQL" title="SQL" width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"/>
+  <img align="left" alt="Oracle" title="Oracle" width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"/>
+  <img align="left" alt="SQL Server" title="SQL Server" width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
+  <img align="left" alt="MySQL" title="MySQL" width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  <img align="left" alt="Jenkins" title="Jenkins" width="30px"
+    src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg"/>
+  <img align="left" alt="Git" title="Git" width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img align="left" alt="Power BI" title="Power BI" width="30px"
+    src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png"/>
+</p>
+
+<br/><br/>
+
+<hr/>
+
+<h2>📊 GitHub Stats</h2>
+
+<p>
+  <img height="170"
+    src="https://github-readme-stats.vercel.app/api?username=2001GMedina&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=2001GMedina&theme=tokyonight&layout=compact&langs_count=8"/>
 </p>
